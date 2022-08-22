@@ -1,0 +1,7 @@
+name: ShopPlugin
+author: Garvierl
+main: me.Garvierl.ShopPlugin.Main
+version: 1.0
+depend: [Vault]
+commands:
+   shop: 
